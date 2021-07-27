@@ -1,0 +1,19 @@
+{
+  "name": "work_flow_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "clean": "wangxc_work_flow clean",
+    "dev": "wangxc_work_flow develop",
+    "build": "wangxc_work_flow build"
+  },
+  "devDependencies": {
+    "wangxc_work_flow": "^0.2.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
