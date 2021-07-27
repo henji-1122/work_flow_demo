@@ -4,7 +4,7 @@
 #### 安装依赖
 - yarn 
 
-#### scripts配置
+#### scripts配置  
 ```
   "scripts": {
     "clean": "wangxc_work_flow clean",
